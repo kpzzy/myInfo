@@ -40,3 +40,7 @@
 - 과정 ( process )  
   CI과정은 금방하였지만 CD기능은 Code Deploy Documents를 참고 하였지만 75번의 시도끝에 성공하였음. 다른 조원에게 설명해주기 위하여 이를 github issue에 정리하여 문서화로 기록하였음.  
   https://github.com/QBChaining/QBChaining-BE/issues/95
+
+- 결과 ( result )  
+  CI/CD 를 구축함으로써 자원 절약
+  ![image](https://user-images.githubusercontent.com/107670953/194735541-1e8a5990-6ec4-4c9e-9670-3abcab902fbc.png)
